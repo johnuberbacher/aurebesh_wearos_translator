@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.johnuberbacher.aurebesh_wearos_translator">
    <application
-        android:label="aurebesh_wearos_translator"
+        android:label="Aurebesh Translator"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
