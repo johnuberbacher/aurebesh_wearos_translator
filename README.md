@@ -1,5 +1,5 @@
 # aurebesh_wearos_translator
- Aurebesh to English alphabet visual translator app for WearOS
+Just a little concept app for WearOS Android devices. It's a scrollable WearOS app that features glowing Aurbesh font and its coresponding english translated letter below it. Might be handy for those who visit Galaxy's Edge.
 
 
 ## Screenshot
